@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197398335162",
+    "project_id": "evocity-app",
+    "storage_bucket": "evocity-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197398335162:android:8fa196794bc0b1bf3ebc83",
+        "android_client_info": {
+          "package_name": "com.example.testlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197398335162-7rk7d15j6offve6qvk05jan84oq8m5ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCed6DfNuipPWSbuG4gkwHLrkIwu5oxsq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197398335162-7rk7d15j6offve6qvk05jan84oq8m5ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
